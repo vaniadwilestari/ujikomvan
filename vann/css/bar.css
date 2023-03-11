@@ -291,8 +291,8 @@ a {
 .header {
 	padding-top: .5em;
 	padding-bottom: .5em;
-	border: 1px solid #C0C0C0;
-	background-color: #F8F8FF;
+	border: 1px solid #92cd9e;
+	background-color: #74f3d061;
 	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
 	-moz-box-shmoz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
 	box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.75);
