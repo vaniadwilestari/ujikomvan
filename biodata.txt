@@ -1,0 +1,5 @@
+udul		: Aplikasi Penglolaan Laundry
+Nama		: Vania Dwi Lestari
+Kelas		: XII RPL 2
+Link GitHub	:https://github.com/vaniadwilestari/ujikomvan
+Link Hosting	: https://vanialaundry03.000webhostapp.com
